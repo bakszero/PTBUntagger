@@ -10,4 +10,4 @@ with open(sys.argv[1], "r") as filestream:
 			for token in final:
 				print (token, end=' ')
 
-print ('\n')
+print ()
